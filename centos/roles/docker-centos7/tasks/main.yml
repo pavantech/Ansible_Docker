@@ -22,7 +22,6 @@
    state: latest
   notify: 
         - start docker
-  notify: 
         - enable docker 
 
 
