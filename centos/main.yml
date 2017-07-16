@@ -1,4 +1,5 @@
-- hosts: docker 
+#- hosts: docker
+- hosts: localhost 
   roles: 
      - docker-centos7 
 
