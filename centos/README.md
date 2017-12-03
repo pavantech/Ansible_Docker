@@ -1,7 +1,7 @@
 Ansible is an IT automation tool. It can configure systems, deploy software, and orchestrate more advanced IT tasks such as continuous deployments or zero downtime rolling updates.
 First you need to install ansible on centos. 
 Steps for Redhat Family: 
-# wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-9.noarch.rpm
+# wget http://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
 # rpm -ivh epel-release-7-9.noarch.rpm
 # yum install ansible
 # ansible --version
